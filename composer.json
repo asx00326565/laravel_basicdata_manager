@@ -1,5 +1,5 @@
 {
-    "name": "artincms/laravel_basicdata_manager",
+    "name": "alhadi/laravel_basicdata_manager",
     "description": "Official ArtinCMS.com Laravel Basicdata Manager Package",
     "keywords": ["laravel", "ArtinCMS", "مدیریت داده های اولیه", "مدیریت داده ها", "Basicdata manager", "Basic", "artincms.com","آرتین سی ام اس"],
     "license": "MIT",
